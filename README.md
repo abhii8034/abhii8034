@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhii8034
 - 👀 I’m interested in Frontend and Backend Development
-- 🌱 I’m currently learning MERN STACK DEVELOPER
+- 🌱 I’m an a MERN STACK DEVELOPER
 - 📫 You can contact me through abhiram8034@gmail.com or abhi8034@outlook.com
 
 <!---
